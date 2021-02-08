@@ -1,0 +1,72 @@
+.navbar{
+    text-decoration:overline;
+    font-family: 'Bungee Hairline', cursive;
+    
+    }
+.socialmedia{
+    color: orange;
+}
+
+.richboi{
+    color: orange;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+.ImageText{
+    text-shadow: black 1px 1px 1px; 
+    color: orange;
+font-family:Georgia, 'Times New Roman', Times, serif;
+font-style: oblique;}
+
+.subtext{
+    text-shadow: black 1px 1px 1px;
+    color:gray;
+}
+
+
+.porsche {
+    background-image: url("https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/singer2-1538663045.jpg");
+    background-size: cover;
+    padding-bottom: 25vh ;
+    padding-top: 5vh ;
+}
+
+.flat6flex {
+    
+    font-family: monospace;
+}
+
+.enginetext{
+    font-size: medium;
+}
+
+.choice{
+    font-family: monospace;
+    color: orange;
+}
+
+.choice2{
+    color: gray;
+}
+
+.trans{
+    color: orange;
+}
+
+.contact{
+    font-family: monospace;
+    color: orange;
+}
+
+footer{
+  color: orange;
+}
+
+.config{
+position: absolute;
+top: 80px;
+}
+
+.link{
+    color: black;
+font-family: monospace;
+}
